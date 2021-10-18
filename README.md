@@ -9,7 +9,7 @@
 
 - ✨ Slack, Notion, Discord
 
-- 👀 I’m interested in BEM, reuseable component
+- 👀 I’m interested in BEM, TDD, reuseable component
 
 <!---
 codono/codono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
