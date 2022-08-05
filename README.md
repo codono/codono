@@ -1,6 +1,4 @@
-# Hello, welcome to my git
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codono&count_private=true&include_all_commits=true)
 
 ### My tools
 - :computer: ***Front***: React, React-hooks, Javascript, Typescript, Redux, Recoil, styled-component, SCSS
