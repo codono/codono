@@ -3,7 +3,7 @@
 ### My tools
 - :computer: ***Front***: React, React-native, Javascript, Typescript, Redux, Recoil, styled-component, SCSS, (Next.js, Django)
 
-- :gear: ***Back***: Node.js, Express, MySQL, (MongoDB)
+- :gear: ***Back***: Node.js, Express, MySQL, (Django, MongoDB)
 
 - :cloud: ***Infra***: AWS EC2, S3, RDS, CodePipeline
 
