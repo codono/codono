@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codono&count_private=true&include_all_commits=true)
 
 ### My tools
-- :computer: ***Front***: React, React-native, Javascript, Typescript, Redux, Recoil, styled-component, SCSS, (Next.js, Django)
+- :computer: ***Front***: React, Next.js, React-native, Flutter, Javascript, Typescript, Jotai, Redux, Recoil, styled-component, SCSS, (Django)
 
 - :gear: ***Back***: Node.js, Express, MySQL, (Django, MongoDB)
 
